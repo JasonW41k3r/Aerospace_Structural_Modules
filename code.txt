@@ -1,0 +1,22 @@
+from pymycobot import MyCobot
+from pymycobot.genre import Angle
+from pymycobot.genre import Coord
+from pymycobot import PI_PORT, PI_BAUD
+mc = MyCobot(PI_PORT, PI_BAUD)
+mc.send_angle(Angle.J3.value,70,40)
+
+mc.send_angles([0,0,0,0,0,0],50)
+mc.send_angles([0,45,90,0,0,0],50)
+mc.send_coord(Coord.X.value, 50, 70)
+mc.send_coords([57.0, -107.4, 316.3, -93.81, -12.71, -163.49], 80, 1)
+mc.send_coords([212.9, -60.3, 54.1, -178.43, -0.29, -84.9], 80, 1)
+
+mc.send_coords([212.9, 100.3, 50.1, -178.43, -0.29, -84.9], 80, 1)
+time.sleep(1)
+mc.send_coords([212.9, 100.3, 100.1, -178.43, -0.29, -84.9], 80, 1)
+time.sleep(1)
+mc.send_coords([212.9, -100.3, 100.1, -178.43, -0.29, -84.9], 80, 1)
+time.sleep(1)
+mc.send_coords([212.9, -100.3, 50.1, -178.43, -0.29, -84.9], 80, 1)
+time.sleep(1)
+

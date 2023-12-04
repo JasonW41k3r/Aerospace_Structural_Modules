@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/er/.local/share/icons/myStudio.png
+Icon[en_US]=/home/er/.local/share/icons/myStudio.png
+Name[en_US]=myStudio
+Exec=/home/er/Applications/myStudio-latest.AppImage
+Name=myStudio
