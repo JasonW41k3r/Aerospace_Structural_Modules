@@ -3,7 +3,7 @@
 # Intelligent Assembly of Aerospace Structural Modules
 
 ## Introduction
-Welcome to the GitHub repository for our project, "Intelligent Assembly of Aerospace Structural Modules." This project was conducted by a dedicated team of students from Zhongshan University, under the guidance of Professor Wang Xing. Our goal was to explore innovative technologies for the intelligent assembly of aerospace structural modules, focusing on the use of a single-arm robotic arm for precise positioning and rapid connection of pre-designed modular components.
+Welcome to the GitHub repository for our project, "Intelligent Assembly of Aerospace Structural Modules." This project was conducted by a dedicated team of students from Sun Yat-sen University(SYSU), under the guidance of Professor Wang Xing. Our goal was to explore innovative technologies for the intelligent assembly of aerospace structural modules, focusing on the use of a single-arm robotic arm for precise positioning and rapid connection of pre-designed modular components.
 
 ## Project Overview
 - **Project Duration**: January 2023 - December 2023
