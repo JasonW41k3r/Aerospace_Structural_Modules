@@ -9,7 +9,7 @@ Welcome to the GitHub repository for our project, "Intelligent Assembly of Aeros
 - **Project Duration**: January 2023 - December 2023
 - **Team Members**: Chen Shiyu, He Hongxin, Duan Yue, Rao Jiansheng, Zeng Xinyue(陈诗雨, 何泓辛, 段跃, 饶鉴晟, 曾欣玥)
 - **Institution**: School of Aeronautics and Astronautics, Sun Yat-sen University(SYSU)
-- **Guide**: Prof. Wang Xing
+- **Guide**: Prof. Wang Xing(王兴教授)
 
 ### Objectives
 - To develop a modular design for aerospace structures, allowing flexible combination and reconstruction according to different needs and environments.
@@ -46,6 +46,6 @@ We encourage contributions and collaborations from the community. If you're inte
 For any inquiries, please reach out to the project leader, Chen Shiyu (email: chenshy286@mail2.sysu.edu.cn).
 
 ## Acknowledgements
-Special thanks to Professor Wang Xing for his guidance and support throughout the project. This project was made possible by the resources and facilities provided by Zhongshan University.
+Special thanks to Professor Wang Xing for his guidance and support throughout the project. This project was made possible by the resources and facilities provided by Sun Yat-sen University.
 
 ---
